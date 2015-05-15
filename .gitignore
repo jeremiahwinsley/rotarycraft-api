@@ -3,13 +3,13 @@
 !.gitignore
 !.gitmodules
 
+!README.md
+
 !gradle/
 !gradlew
 !gradlew.bat
 !build.gradle
-!settings.gradle
 !gradle.properties
 
 !src/
-!dragonapi/
-!thaumcraft/
+
